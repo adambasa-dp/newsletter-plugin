@@ -1,0 +1,128 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Newsletter WP Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-07-14 16:40+0000\n"
+"PO-Revision-Date: 2023-07-14 16:44+0000\n"
+"Last-Translator: \n"
+"Language-Team: Polish\n"
+"Language: pl_PL\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10 >= 2 && n%10<=4 "
+"&&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2.2\n"
+"X-Domain: dp"
+
+#: newsletter.php:49
+msgid "The table name is already used by another plugin or theme."
+msgstr "Tabela jest używana przez inny szablon lub plugin"
+
+#: app/view/view.php:50
+msgid "Please enter a valid email address."
+msgstr "Wprowadź prawidłowy adres email."
+
+#: app/view/view.php:53
+msgid "Please accept the agreement."
+msgstr "Proszę zaakceptować regulamin."
+
+#: app/view/view.php:56
+msgid "Internal server error, please try again later."
+msgstr "Wewnętrzny błąd serwera, spróbuj ponownie później..."
+
+#: app/view/view.php:61
+msgid "Thank you for subscribing!"
+msgstr "Dziękujemy za zapisanie!"
+
+#: app/domains/shortcode/Shortcode.php:31
+#: app/domains/admin_panel/Admin_Panel.php:27
+#: app/domains/newsletter/View_Table.php:178
+msgid "Newsletter"
+msgstr "Newsletter"
+
+#: app/domains/shortcode/Shortcode.php:32
+#: app/domains/newsletter/View_Table.php:113
+#: app/domains/newsletter/View_Single.php:36
+msgid "E-mail"
+msgstr "E-mail"
+
+#: app/domains/shortcode/Shortcode.php:33
+msgid "Subscribe"
+msgstr "Zapisz się"
+
+#: app/domains/shortcode/Shortcode.php:34
+msgid "You must accept the terms and conditions to subscribe to the newsletter"
+msgstr "Aby zapisać się do newslettera, należy zaakceptować regulamin"
+
+#: app/domains/newsletter/Newsletter.php:133
+msgid "Something fishy is going on..."
+msgstr "Dzieje się coś podejrzanego..."
+
+#: app/domains/newsletter/View_Table.php:46
+msgid "Details"
+msgstr "Szczegóły"
+
+#: app/domains/newsletter/View_Table.php:47
+#: app/domains/newsletter/View_Table.php:72
+msgid "Delete"
+msgstr "Usuń"
+
+#: app/domains/newsletter/View_Table.php:114
+#: app/domains/newsletter/View_Single.php:40
+msgid "IP address"
+msgstr "Adres IP"
+
+#: app/domains/newsletter/View_Table.php:115
+#: app/domains/newsletter/View_Single.php:38
+msgid "Submit date"
+msgstr "Data przesłania"
+
+#: app/domains/newsletter/View_Table.php:139
+msgid "Export all to CSV"
+msgstr "Eksportuj do CSV"
+
+#: app/domains/newsletter/View_Table.php:159
+msgid "Element deleted"
+msgstr "Element usunięty"
+
+#: app/domains/newsletter/View_Table.php:163
+msgid "Selected elements deleted"
+msgstr "Zaznacz elementy do usunięcia"
+
+#: app/domains/newsletter/View_Table.php:185
+msgid "Search"
+msgstr "Szukaj"
+
+#: app/domains/newsletter/View_Single.php:35
+msgid "Newsletter details"
+msgstr "Szczegóły newslettera"
+
+#. Name of the plugin
+msgid "Newsletter WP Plugin"
+msgstr "Newsletter WP Plugin"
+
+#. Description of the plugin
+msgid ""
+"WP Newsletter is a custom WordPress plugin that allows users to create "
+"customizable newsletter shortcodes, handle form submissions, store "
+"submissions in a dedicated database table, and export those submissions to a "
+"CSV format."
+msgstr ""
+"WP Newsletter to wtyczka WordPress, która umożliwia użytkownikom tworzenie "
+"konfigurowalnych skrótów newslettera, obsługę zgłoszeń formularzy, "
+"przechowywanie zgłoszeń w dedykowanej tabeli bazy danych i eksportowanie "
+"tych zgłoszeń do formatu CSV."
+
+#. URI of the plugin
+msgid "https://github.com/adambasa-dp/newsletter-wp-plugin"
+msgstr "https://github.com/adambasa-dp/newsletter-wp-plugin"
+
+#. Author of the plugin
+msgid "Adam Basa"
+msgstr "Adam Basa"
+
+#. Author URI of the plugin
+msgid "https://www.developress.io/"
+msgstr "https://www.developress.io/"

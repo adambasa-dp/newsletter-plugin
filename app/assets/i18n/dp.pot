@@ -1,0 +1,124 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Newsletter WP Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-07-14 16:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2.2\n"
+"X-Domain: dp"
+
+#. Author of the plugin
+msgid "Adam Basa"
+msgstr ""
+
+#: app/domains/newsletter/View_Table.php:47
+#: app/domains/newsletter/View_Table.php:72
+msgid "Delete"
+msgstr ""
+
+#: app/domains/newsletter/View_Table.php:46
+msgid "Details"
+msgstr ""
+
+#: app/domains/shortcode/Shortcode.php:32
+#: app/domains/newsletter/View_Table.php:113
+#: app/domains/newsletter/View_Single.php:36
+msgid "E-mail"
+msgstr ""
+
+#: app/domains/newsletter/View_Table.php:159
+msgid "Element deleted"
+msgstr ""
+
+#: app/domains/newsletter/View_Table.php:139
+msgid "Export all to CSV"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://github.com/adambasa-dp/newsletter-wp-plugin"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.developress.io/"
+msgstr ""
+
+#: app/view/view.php:56
+msgid "Internal server error, please try again later."
+msgstr ""
+
+#: app/domains/newsletter/View_Table.php:114
+#: app/domains/newsletter/View_Single.php:40
+msgid "IP address"
+msgstr ""
+
+#: app/domains/shortcode/Shortcode.php:31
+#: app/domains/admin_panel/Admin_Panel.php:27
+#: app/domains/newsletter/View_Table.php:178
+msgid "Newsletter"
+msgstr ""
+
+#: app/domains/newsletter/View_Single.php:35
+msgid "Newsletter details"
+msgstr ""
+
+#. Name of the plugin
+msgid "Newsletter WP Plugin"
+msgstr ""
+
+#: app/view/view.php:53
+msgid "Please accept the agreement."
+msgstr ""
+
+#: app/view/view.php:50
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: app/domains/newsletter/View_Table.php:185
+msgid "Search"
+msgstr ""
+
+#: app/domains/newsletter/View_Table.php:163
+msgid "Selected elements deleted"
+msgstr ""
+
+#: app/domains/newsletter/Newsletter.php:133
+msgid "Something fishy is going on..."
+msgstr ""
+
+#: app/domains/newsletter/View_Table.php:115
+#: app/domains/newsletter/View_Single.php:38
+msgid "Submit date"
+msgstr ""
+
+#: app/domains/shortcode/Shortcode.php:33
+msgid "Subscribe"
+msgstr ""
+
+#: app/view/view.php:61
+msgid "Thank you for subscribing!"
+msgstr ""
+
+#: newsletter.php:49
+msgid "The table name is already used by another plugin or theme."
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"WP Newsletter is a custom WordPress plugin that allows users to create "
+"customizable newsletter shortcodes, handle form submissions, store "
+"submissions in a dedicated database table, and export those submissions to a "
+"CSV format."
+msgstr ""
+
+#: app/domains/shortcode/Shortcode.php:34
+msgid "You must accept the terms and conditions to subscribe to the newsletter"
+msgstr ""
