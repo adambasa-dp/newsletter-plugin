@@ -114,7 +114,7 @@ class Arguments {
 			$args['export'] = true;
 		}
 
-		// export data.
+		// pagination.
 		if ( isset( $_GET['page'] ) ) {
 			$args['page'] = $_GET['page'];
 		}
