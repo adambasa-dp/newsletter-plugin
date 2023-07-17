@@ -6,6 +6,7 @@
 namespace dp\app\domains;
 
 use dp\app\domains\admin_panel\Admin_Panel;
+use dp\app\domains\ajax\Ajax;
 use dp\app\domains\gutenberg_block\Gutenberg_Block;
 use dp\app\domains\newsletter\Newsletter;
 use dp\app\domains\shortcode\Shortcode;
@@ -23,6 +24,7 @@ class Domains {
 		new Translate_Newsletter();
 		new Template();
 		new Newsletter();
+		new Ajax();
 		new Shortcode();
 		new Gutenberg_Block();
 		new Admin_Panel();

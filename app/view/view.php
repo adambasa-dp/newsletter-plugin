@@ -40,7 +40,9 @@ $random_id = 'newsletter-wp-plugin-agreement-' . rand( 1, 1000000 );
 		</div>
 
 		<div class="newsletter-wp-plugin__form-right">
-			<button class="newsletter-wp-plugin__button"><?php echo esc_html( $args['button_title'] ); ?></button>
+			<?php if ( ! empty( $args['button_title'] ) ) : ?>
+				<button class="newsletter-wp-plugin__button"><?php echo esc_html( $args['button_title'] ); ?></button>
+			<?php endif; ?>
 		</div>
 	</form>
 
